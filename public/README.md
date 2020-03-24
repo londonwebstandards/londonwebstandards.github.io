@@ -1,3 +1,0 @@
-# londonwebstandards.github.io
-
-Repository to publish lws static site generated with [Hugo](https://gohugo.io/).
