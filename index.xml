@@ -18,6 +18,17 @@ We care about a lot of web-related topics like including HTML5, JavaScript, CSS,
     </item>
     
     <item>
+      <title>Sign up</title>
+      <link>/sign-up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sign-up/</guid>
+      <description>Subscribe to the London Web Standards newsletter to receive alla the latest for our events Email Address 
+         LWS is using Mailchimp as its email marketing tool.
+We only collect the minimum data we need to communicate with our audience and will never share your details with third parties without your consent. You can unsubscribe at any time.</description>
+    </item>
+    
+    <item>
       <title>State of the Browser 2021</title>
       <link>/events/sotb-2021/</link>
       <pubDate>Wed, 11 Aug 2021 12:27:00 +0000</pubDate>
